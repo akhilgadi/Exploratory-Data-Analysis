@@ -17,8 +17,6 @@ Depending on the above 4 features, a plant will be categorized and placed in  5t
 * Setosa
 * Versicolor 
 * Virginica
-![](/EDA/Iris_pic.png)
-
 ### Aim - 
 #### ***To distinguish an unknown flower into one of the three category of species***
 
